@@ -1,3 +1,9 @@
-.RDataTmp
-.RDataTmp1
+# R temporary files and history
+.RDataTmp*
 .Rhistory
+.RData
+
+# Data files and documentation
+*.csv
+*.docx
+part 1
